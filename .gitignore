@@ -1,0 +1,10 @@
+# Ignore node modules
+node_modules/
+
+# Ignore build files
+build/
+dist/
+
+# Ignore system files (Windows, Docker)
+AppData/
+*.log
