@@ -1,7 +1,7 @@
-Docker React App – Codin 1
+Docker React App - Codin 1
 Description
 
-joshi_anchal_site
+anchal_site
 
 This project sets up a React development environment using Docker.
 The application displays an <h1> tag with the text "Codin 1" when running in the browser.
